@@ -1,0 +1,6 @@
+framework module Pods_iPartnerTests {
+  umbrella header "Pods-iPartnerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
